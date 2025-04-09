@@ -12,3 +12,4 @@ Total hours so far: 4.5h
 ## 09 APR.
 - Make a addon Box to the Case for a RasberyPi 4 with display
 - Time Spend: 2h
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b76e5faa78416fc64b0bde5aab24fcb6a1825094_day2.jpg">
